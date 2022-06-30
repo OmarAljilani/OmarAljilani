@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @OmarAljilani
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Web Development
 - 📫 How to reach me aljilani.om@gmail.com
 
 <!---
